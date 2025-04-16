@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Articulat CF';
+    src: url('./fonts/ArticulatCF-Bold.woff2') format('woff2');
+}
+body,html{
+    font-family: 'Articulat CF', sans-serif;
+    scroll-behavior: smooth;
+}
